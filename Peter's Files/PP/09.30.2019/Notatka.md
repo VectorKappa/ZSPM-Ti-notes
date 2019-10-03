@@ -1,30 +1,35 @@
-technologie dzialajace pos tronie klienta sa zwiazane z rodzajem oprogramowania klienckiego czyli przegladarki i zainstalowanych wtyczek.
-czesto wspomagaja te po stronie serwera.
-podstawowa technologia dzialajaca po stronie klienta - to jezyk skryptowy ktorego kod mozna wstawic w html
-js jest wspierany we wszystkie przegladarki i nie wymaga ionstalacji 
-rzadsza technologia po stronie klienta sa applety java. do ich wykonania nalezy zainstalowac odpowiednie wtyczki JVM
-ajax - async js oferuje te same dzialania co js, ale w ajaxie komunikacja z serwerem jest w tle
-js jest wieloplatformowym jes=zykiem skryptowym wykorzystywanym w sieci
-wieloplatformowosc
-kod dziala w wielu systemach dajaxc ter same wyniki
-obiektowosc
-w html znaczniki wykorzystywane sa do otaczania fragmentow tekstu i informuja przgladarke jak ma go zinterpretowac
-js wymaga aby struktura danych (np info na stronie) juz istniala. dane zapisane na stronie sa traktownr jako obirkty o hierarchicznej strukturze
-obiekty umozliwiaja latwiejsza organizacje strony orazwykonywanie roznycch dzialan na poszczegolnych elementach.
-jezyki skryptowe dzieje sie tak bo przegladarka zawiera wiele uzytecznych funkcji obslugujacych js. jesli jezyk jest interpretowany to nie musimy go kompilowac do binarnej
+Technologie działające po stronie klienta są związane z rodzajem oprogramowania klienckiego czyli przeglądarki i zainstalowanych wtyczek,
+często wspomagają te po stronie serwera.
 
-do ich uruchomienia wystarczy przegladarka, czesto ozywia statyczne strony html
-js poplarnosc zawdziecza frameworkom jquery i angular
+Podstawową technologią działającą po stronie klienta - to język skryptowy którego kod można wstawić w html.
 
-powoduja one, ze klient otrzymuje gotowa strone internetowa wygenerowana z uwzglednieniem kryteriow okreslonych przez uzytkownijka
-technologie po serwerze to ASP.NET przeznaczona d otworzenia roznych aplikacji w html wml i xml
-tworzone dokumenty zawieraja statyczna tresc lecz istnieje mozliwosc dodania dynamicznego kodu
+JS jest wspierany we wszystkich przeglądarkach i nie wymaga instalacji, rzadszą technologią po stronie klienta są applety java. Do ich wykonania należy zainstalować odpowiednie wtyczki JVM
+
+Ajax - async JS oferuje te same działania co JS, ale w ajaxie komunikacja z serwerem jest w tle.
+
+JS jest wieloplatformowym językiem skryptowym wykorzystywanym w sieci.
+
+**Wieloplatformowość** - kod działa w wielu systemach dając te same wyniki.
+
+**Obiektowosc** - W html znaczniki wykorzystywane są do otaczania fragmentów tekstu i informują przęgladarkę jak ma go zinterpretować,
+JS wymaga aby struktura danych (np. informacja na stronie) już istniała. Dane zapisane na stronie sa traktowne jako obiekty o hierarchicznej strukturze.
+
+Obiekty umożliwiają łatwiejszą organizację strony oraz wykonywanie różnych działań na poszczególnych elementach.
+
+~~jezyki skryptowe dzieje sie tak bo przegladarka zawiera wiele uzytecznych funkcji obslugujacych js.~~ 
+
+Jeśli język jest interpretowany to nie musimy go kompilować do binarnej, do ich uruchomienia wystarczy przeglądarka, często ożywia statyczne strony html.
+JS popularność zawdzięcza framework'om jquery i angular.
+
+Powodują one, ze klient otrzymuje gotową stronę internetową wygenerowaną z uwzglednieniem kryteriów określonych przez użytkownika
+technologie Serwerwerowe to:
+* **ASP.NET** przeznaczona do otwarcia różnych aplikacji w html wml i xml, tworzone dokumenty zawieraja statyczna tresc lecz istnieje mozliwosc dodania dynamicznego kodu.
 
 php wraz z serwerem apache tworzy srodowisko dla aaaaaaaaaaa
 
 .net
 
-CLR i biblioetki klas dostarczjace standardowe funkcjonalnosci dla aplikacji
+CLR i biblioteki klas dostarczające standardowe funkcjonalnosci dla aplikacji
 
 
-.net nie jest zwiazany z zadnym konkretnym j prog
+.net nie jest związany z żadnym konkrętnym językiem programowania
