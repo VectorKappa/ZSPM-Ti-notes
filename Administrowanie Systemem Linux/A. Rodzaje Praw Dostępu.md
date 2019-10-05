@@ -16,6 +16,7 @@
 | :---: | :---------------: | :-----------------------: | :-----------: |
 |       |         u         |             g             |       o       |
 |       | user - właściciel | group - grupa właściciela | others - inni |
+
 _(Katalog o wszystkich uprawnieniach **(drwxrwxrwx)**)_
 
 ### W przypadku katalogów:
